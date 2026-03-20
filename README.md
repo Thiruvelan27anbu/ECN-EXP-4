@@ -36,22 +36,22 @@ It is the look-back resistance across the load terminals when all the sources ar
 
 To measure IL
 
-<img width="469" height="143" alt="image" src="https://github.com/user-attachments/assets/a89d6d2b-c628-434d-961f-3ae03e200d8e" />
+<img width="2412" height="1526" alt="image" src="https://github.com/user-attachments/assets/51b7ab9d-80b2-436a-874c-b3be6d568a54" />
 
 To measure RTh or RN
 
-<img width="360" height="139" alt="image" src="https://github.com/user-attachments/assets/4a0cd230-205b-48ad-ab08-f359aaf192a6" />
+<img width="2826" height="1566" alt="image" src="https://github.com/user-attachments/assets/0c1f7c38-5d25-429a-a9f6-5deae878072f" />
 
 To measure VTh or Voc
 
-<img width="452" height="142" alt="image" src="https://github.com/user-attachments/assets/b0bb48a9-90fe-4979-a3fe-4e41c67239ce" />
+<img width="1600" height="1273" alt="image" src="https://github.com/user-attachments/assets/e807948e-0607-4a16-b0d3-784abd44dee9" />
 
 Thevenin’s equivalent circuit
 
-<img width="313" height="164" alt="image" src="https://github.com/user-attachments/assets/2de70f30-9d20-46c2-a05d-2cf793137885" />
+<img width="1620" height="883" alt="image" src="https://github.com/user-attachments/assets/bf7bfe63-53d1-4bc9-8f04-2aa5f5332f54" />
 
-**CIRCUIT DIAGRAM :**
-<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/51dd32bd-ee67-4168-9529-e38a90f674dd" />
+**TABULAR COLUMN **
+<img width="971" height="1347" alt="image" src="https://github.com/user-attachments/assets/c886d07b-05bc-49ee-83e4-e61ece402cc4" />
 
 
 
@@ -84,15 +84,15 @@ Thevenin’s equivalent circuit
 13.	Theoretically verify the Norton’s theorem.
 
 **CALCULATION:**
-<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/de392296-cb01-45cf-839c-f503e2867da6" />
-<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/9817c833-da87-41b4-9be2-68b7332edd4f" />
-<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/17337fa5-dc2c-44d5-b19c-c9bcf00ecf75" />
+<img width="811" height="1600" alt="image" src="https://github.com/user-attachments/assets/7f7ca1f9-a577-4b6d-9bd3-0399193c5007" />
+<img width="1281" height="1600" alt="image" src="https://github.com/user-attachments/assets/c63c37ec-4d85-4be3-b0c9-f5b96d186de6" />
 
+**MARLK SPLITUP**
+<img width="1449" height="1327" alt="image" src="https://github.com/user-attachments/assets/12270559-7783-4084-954d-37a0f2f0c23a" />
 
 
 **RESULT:**
-<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/660baba3-6877-4f2f-95ab-b5d203fa2a46" />
-
+Thus thevenin 's theorem is verified practically and theoretically 
 
 
 
